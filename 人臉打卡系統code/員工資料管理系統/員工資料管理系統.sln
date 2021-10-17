@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "員工資料管理系統", "員工資料管理系統\員工資料管理系統.csproj", "{43D92B91-9866-410F-8FC9-04DDB55008EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D92B91-9866-410F-8FC9-04DDB55008EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D92B91-9866-410F-8FC9-04DDB55008EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D92B91-9866-410F-8FC9-04DDB55008EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D92B91-9866-410F-8FC9-04DDB55008EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A19775-11F6-45CA-8FDF-D8FB34C4FF91}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "人臉辨識打卡系統", "人臉辨識打卡系統\人臉辨識打卡系統.csproj", "{1FAA0B51-11C1-40A3-9176-4B80FF8A1F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FAA0B51-11C1-40A3-9176-4B80FF8A1F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAA0B51-11C1-40A3-9176-4B80FF8A1F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAA0B51-11C1-40A3-9176-4B80FF8A1F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAA0B51-11C1-40A3-9176-4B80FF8A1F85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {826095D7-4BA6-4644-87F9-A3CB3F36AC4D}
+	EndGlobalSection
+EndGlobal
